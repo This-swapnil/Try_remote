@@ -48,3 +48,7 @@ Those who are able to go some extra mile will be picked first for interview. Hav
 * If you have a decent enough PC:
     * Use bigger LLMs like mistral (fine-tuned instruct version)
     * You can also create a mode that uses a multimodal model like Llava.
+
+
+## Contact
+Email: philipamadasun1@gmail.com
